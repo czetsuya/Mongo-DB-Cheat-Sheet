@@ -1,5 +1,11 @@
 ## Database
 
+### Start MongoDB
+
+```
+mongod --dbpath <localPath>
+```
+
 ### Select Database
 
 ```
